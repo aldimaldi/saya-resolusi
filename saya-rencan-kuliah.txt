@@ -1,7 +1,7 @@
 RENCANA KULIAH SAYA
 - Mencari teman
-- Konsisten mempelajari kembali apa yang telah di jelaskan di kampus
 - Konsisten mempelajari javascript
+  ^ node js
   ^ react
 - Belajar bersosialisasi dengan baik
 - Kembali mempelajari python
