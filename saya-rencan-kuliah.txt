@@ -2,6 +2,6 @@ RENCANA KULIAH SAYA
 - Mencari teman
 - Konsisten mempelajari javascript
   ^ node js
-  ^ vue
+  ^ react
 - Belajar bersosialisasi dengan baik
-- Belajar IOT
+- Kembali mempelajari python
