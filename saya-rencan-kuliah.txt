@@ -3,3 +3,4 @@ RENCANA KULIAH SAYA
 - Konsisten mempelajari kembali apa yang telah di jelaskan di kampus
 - Konsisten mempelajari javascript
 - Belajar bersosialisasi dengan baik
+- Kembali mempelajari python
